@@ -1,0 +1,98 @@
+[
+  {
+    "name": "TMT (Cross)",
+    "rarity": "comum",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1465367150565916784/30_Sem_Titulo_20260119084617.png?ex=6982bc41&is=69816ac1&hm=5a2fa6b7f10cd09ba24c2287e475a10f278e03d40f4d12c6d83eb2264509f422&"
+  },
+  {
+    "name": "Molestray",
+    "rarity": "incomum",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1465053727919575211/CA1B83FC-3546-4E0E-898A-5D307113EAC0.png?ex=6982e9dc&is=6981985c&hm=106a3f79b7664f4b95a517bf414426c33e8240f0ecdbd7b8382bd13938c5a019&"
+  },
+  {
+    "name": "Império Vaticanense",
+    "rarity": "rara",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1465132036552396947/1729727506082-1.png?ex=698332ca&is=6981e14a&hm=38275eeea04906985d4ed60a3d23ee037dc85f734bcf8aac09424f993fbfc50d&"
+  },
+  {
+    "name": "Império Avocadense",
+    "rarity": "rara",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1465060032537165938/sketch-1767039854076.png?ex=6982efbb&is=69819e3b&hm=0d2ec0ce3cfb476ecfba3b3cc78330df63fb0bb9580ac4dc5a1c0221f7b05a37&"
+  },
+  {
+    "name": "Kinderjœy",
+    "rarity": "épica",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1465059958784524430/1766451416665.png?ex=6982efa9&is=69819e29&hm=1aa8274dbf0ac25f7ab5aab8c62808aeb5010073690479abc46b9fbed4062253&"
+  },
+  {
+    "name": "Aurion",
+    "rarity": "épica",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1467621590740107472/29_Sem_Titulo_20260201174331.jpg?ex=698306de&is=6981b55e&hm=bead0e472609606af8cf88a7785985578942271520ef2ed087e9eea051e8043f&"
+  },
+  {
+    "name": "Império Chu",
+    "rarity": "legacy",
+    "legacy": true,
+    "image": "https://cdn.discordapp.com/attachments/1421997719949676664/1422003938936356955/Novo_projeto_15_57C372A.png"
+  },
+  {
+    "name": "Heitorland",
+    "rarity": "legacy",
+    "legacy": true,
+    "image": "https://cdn.discordapp.com/attachments/1419722692159869061/1421930718166253628/291_Sem_Titulo9.png"
+  },
+  {
+    "name": "SIP",
+    "rarity": "legacy",
+    "legacy": true,
+    "image": "https://cdn.discordapp.com/attachments/1421997719949676664/1421998498273951784/Novo_projeto_14_5108A5C.png"
+  },
+  {
+    "name": "Bananalândia",
+    "rarity": "legacy",
+    "legacy": true,
+    "image": "https://cdn.discordapp.com/attachments/1421997719949676664/1422001423662715061/sketch-1759081671672.png"
+  },
+  {
+    "name": "Perihelennia",
+    "rarity": "rara",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1465045204808503561/1467674418057580607/image.png"
+  },
+  {
+    "name": "Helennia",
+    "rarity": "épica",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1419722692159869061/1467706328536453252/809_Sem_Titulo_20260131195454.png"
+  },
+  {
+    "name": "Império Avocadense Maid",
+    "rarity": "rara",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1437613895043911904/1467945058383827180/file_000000001dac720c98963a96b0604651.png"
+  },
+  {
+    "name": "Império Avocadense Natalino",
+    "rarity": "épica",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1437613895043911904/1467945271588552970/sketch-1765838111482.png"
+  },
+  {
+    "name": "República do Avocadistão",
+    "rarity": "legacy",
+    "legacy": true,
+    "image": "https://cdn.discordapp.com/attachments/1437613895043911904/1467945488975270041/sketch-1762722529473.png"
+  },
+  {
+    "name": "República do Avocadistão Old",
+    "rarity": "épica",
+    "legacy": false,
+    "image": "https://cdn.discordapp.com/attachments/1437613895043911904/1467945820555972756/sketch-1758554607946.png"
+  }
+]
